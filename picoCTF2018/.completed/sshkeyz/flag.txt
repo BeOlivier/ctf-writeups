@@ -1,0 +1,41 @@
+Welcome to Ubuntu 16.04.5 LTS (GNU/Linux 4.4.0-1069-aws x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  Get cloud support with Ubuntu Advantage Cloud Guest:
+    http://www.ubuntu.com/business/services/cloud
+
+143 packages can be updated.
+22 updates are security updates.
+
+New release '18.04.1 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+*** System restart required ***
+================================================================================
+Shell server instructions:
+
+- This server is *rebooted* and *reformatted* regularly. Please do not expect
+  any data to persist.
+
+- This server should be used *only* for working on our CTF problems. Any other
+  usage is a violation of our rules.
+================================================================================
+
+Last login: Fri Nov 30 02:06:55 2018 from 84.216.202.52
+]0;Boli@pico-2018-shell-2: ~Boli@pico-2018-shell-2:~$ ls
+]0;Boli@pico-2018-shell-2: ~Boli@pico-2018-shell-2:~$ ls
+]0;Boli@pico-2018-shell-2: ~Boli@pico-2018-shell-2:~$ ^C
+]0;Boli@pico-2018-shell-2: ~Boli@pico-2018-shell-2:~$ ^C
+]0;Boli@pico-2018-shell-2: ~Boli@pico-2018-shell-2:~$ ^C
+]0;Boli@pico-2018-shell-2: ~Boli@pico-2018-shell-2:~$ ^C
+]0;Boli@pico-2018-shell-2: ~Boli@pico-2018-shell-2:~$ ^C
+]0;Boli@pico-2018-shell-2: ~Boli@pico-2018-shell-2:~$ 
+]0;Boli@pico-2018-shell-2: ~Boli@pico-2018-shell-2:~$ 
+]0;Boli@pico-2018-shell-2: ~Boli@pico-2018-shell-2:~$ 
+]0;Boli@pico-2018-shell-2: ~Boli@pico-2018-shell-2:~$ ^C
+]0;Boli@pico-2018-shell-2: ~Boli@pico-2018-shell-2:~$ ^C
+]0;Boli@pico-2018-shell-2: ~Boli@pico-2018-shell-2:~$ 

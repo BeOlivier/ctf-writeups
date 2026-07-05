@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'picoCTF{almost_like_mario_a6975cdb}'

@@ -1,0 +1,25 @@
+KTH CTF - anteckningar
+
+21 NOV
+
+Be-quick-or-be-dead
+
+Binary Ninja
+subl editor
+
+-C relaterad programmeringsstruktur
+-SYSV_SIGNAL, SIGALARM (funktion)
+-patching a program:
+	-nop
+	-spara bara den koden man vill ha (det som returnerar värdet)
+	-byta startvärdet i loopen
+	
+	-gdb, set breakpoint after set-timer
+
+REVERSE ENG
+
+-preeny, bibliotek av funktioner som skriver över, preload (git)
+-pwndbg (git)
+
+
+

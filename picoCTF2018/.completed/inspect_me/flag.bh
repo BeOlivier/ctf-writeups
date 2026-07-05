@@ -1,0 +1,3 @@
+#!/bin/bash
+
+grep -oE "picoCTF{.*" --color=none index.html | cut -f1 -d' '; grep "flag:" --color=none mycss.css | cut -f11 -d ' '

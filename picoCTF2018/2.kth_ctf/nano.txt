@@ -1,0 +1,13 @@
+KTH CTF - anteckningar
+
+21 NOV
+
+Binary Ninja
+subl editor
+
+-C relaterad programmeringsstruktur
+-SYSV_SIGNAL, SIGALARM (funktion)
+-patching a program
+
+
+
